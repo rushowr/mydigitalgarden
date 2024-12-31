@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"index.md","permalink":"/index/","noteIcon":"","created":"2024-12-31T01:00:46.936-06:00","updated":"2024-12-31T01:03:41.694-06:00"}
+{"dg-publish":true,"dg-path":"index.md","permalink":"/index/","tags":["gardenEntry"],"noteIcon":"","created":"2024-12-31T01:00:46.936-06:00","updated":"2024-12-31T01:12:21.959-06:00"}
 ---
 
 # Testing MyDigitalGarden
